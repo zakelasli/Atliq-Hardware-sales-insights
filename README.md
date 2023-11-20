@@ -1,2 +1,5 @@
 # Atliq-Hardware-sales-insights
 Atliq Hardware is a company which supplies computer Hardware and peripherales to many of the clients. The sales director of Atliq Hardware facing a lot of challenges. so the challenges are : 
+The market is growing dynamically and then he's facing issues in terms of tracking the sales., in this dynamically growing market and he's having issues with insights of this business so he has this regional managers for north, south and central of India. whenever He wants to get insights in these three regions he would call these poeple and on the phone this local regional give him sonme insights. 
+The sales director want just know how business is doing and what are the biggest area that they need to focus, to know is there's a region which declining to start some promotion offer or mybe the can engage with customers in a more better way. 
+To Solve this problem I started by creating a project planing using AIMS GRID (AIMS GRIS is a project Management Tool).  
