@@ -5,4 +5,7 @@ The market is growing dynamically and then he's facing issues in terms of tracki
 The sales director want just know how business is doing and what are the biggest area that they need to focus, to know is there's a region which declining to start some promotion offer or mybe the can engage with customers in a more better way. 
 # An Insight into the Work Method
 To Solve this problem I started by creating a project planing using AIMS GRID (AIMS GRIS is a project Management Tool), and it has four compenent : 
-1 - The purpose, 2- Steakholders, 3- End Result, 4- Success criteria.
+  1 - The purpose.
+  2- Steakholders.
+  3- End Result.
+  4- Success criteria.
