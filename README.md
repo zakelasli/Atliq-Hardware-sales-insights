@@ -9,3 +9,6 @@ To Solve this problem I started by creating a project planing using AIMS GRID (A
   2- Steakholders.
   3- End Result.
   4- Success criteria.
+
+
+<img width="620" alt="A H markets insights" src="https://github.com/zakelasli/Atliq-Hardware-sales-insights/assets/149749616/f6032277-e5d0-4c2c-970e-5608f4bb260e">
